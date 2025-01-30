@@ -30,7 +30,7 @@ Data Engineer
 ###  Blue Sparq, Florida                                                                                                    Mar 2022-Nov 2023 
 Data Engineer
 
-### TB Bank, Pennsylvania                                                                                            Sep 2020 - Dec 2021
+### TD Bank, Pennsylvania                                                                                            Sep 2020 - Dec 2021
 Data Analyst
 
 ### Hinduja Global Solutions, India                                                                         March 2019 - July 2020
